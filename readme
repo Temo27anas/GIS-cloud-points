@@ -1,0 +1,5 @@
+* Libraries Nedded:
+- numpy pandas matplotlib rasterio geopandas shapely
+
+* laspy error fix: 
+ - install one of the backends "laspy[lazrs,laszip]"
